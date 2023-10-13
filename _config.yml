@@ -23,7 +23,7 @@ email: agao0224@gmail.com
 description: "This is the basics of data analysis using python geared towards NBA fans." 
 baseurl: "https://agao0224.github.io/my-blog/ # the name of the repository 
 url: "https://agao0224.github.io" #  change this to "https://<your-github-username>.github.io"
-image: https://source.unsplash.com/random
+image: https://images.unsplash.com/photo-1612151387614-0d29a04ff5f3?ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D&auto=format&fit=crop&w=1935&q=80
 author: Adam Gao
 copyright: AG # Your initials or what you want the copyright to be.  Leave empty for no copyright
 footer_description: 
